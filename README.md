@@ -50,7 +50,7 @@ Leverage unsupervised machine learning (KMeans Clustering) and dimensionality re
 
 The following 3D scatter plot shows the **customer clusters** after applying KMeans and visualizing them using PCA:
 
-![3D Clustering of Product Spending using PCA](image.png)
+![3D Clustering of Product Spending using PCA](download.png)
 
 ### 💡 Cluster Interpretation
 - **Cluster 0** (Gray): Low spenders – price-sensitive or low-engagement customers.
