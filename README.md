@@ -71,5 +71,5 @@ The following 3D scatter plot shows the **customer clusters** after applying KMe
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/lingaa005/productsalesanalysis.git
+   cd productsalesanalysis
